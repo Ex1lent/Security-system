@@ -1,6 +1,5 @@
-<h1 align="center">Security alarm system </a> </h>
+<h1 align="center">Security alarm system </a>
 <figure align="center">
   <img src="2.png" height="300" ></a>
   <figcaption align="center">Preview model</figcaption>
-</figure>
-<p align="center">Preview model</p>
+</figure></h1>
