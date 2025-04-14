@@ -3,7 +3,9 @@
 </p>
 <h2>Electronic components<br></h2>
 <p>
-  <ul>
-    <li>D1 MINI ESP8266 <a href="https://sl.aliexpress.ru/p?key=L3it3Cv" target="_blank">AliExpress</a></li>
+  <ul> 
+    <li>D1 Mini ESP8266 <a href="https://sl.aliexpress.ru/p?key=L3it3Cv" target="_blank">AliExpress</a></li>
+    <li>Arduino Nano <a href="https://sl.aliexpress.ru/p?key=kFit39w" target="_blank">AliExpress</a></li>
+    <li>TTP229 Sensor Module <a href="https://sl.aliexpress.ru/p?key=50it3Ji" target="_blank">AliExpress</a></li>
   </ul>
 </p>
