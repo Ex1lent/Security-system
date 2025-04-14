@@ -1,5 +1,5 @@
 <h1 align="center">Security alarm system </h1>
-<p  align="center"> <img src="2.png" height="300"><br> Preview model
+<p  align="center"> <img src="preview.png" height="300"><br> Preview model
 </p>
 <h1>Electronic components<br></h1>
 <p>
