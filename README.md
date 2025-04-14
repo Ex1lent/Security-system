@@ -8,5 +8,6 @@
     <li>Arduino Nano <a href="https://sl.aliexpress.ru/p?key=kFit39w">AliExpress</a></li>
     <li>TTP229 Sensor Module <a href="https://sl.aliexpress.ru/p?key=50it3Ji">AliExpress</a></li>
     <li>2 x LoRa Ra-02 <a href="https://market.yandex.ru/cc/6chgYY">Yandex market</a></li>
+    <li>LCD Display 128x64 <a href="https://sl.aliexpress.ru/p?key=TIgt33b">AliExpress</a></li>
   </ul>
 </p>
