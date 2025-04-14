@@ -4,6 +4,6 @@
 <p>
   <h2> Electronic components <br></h2>
   <ul>
-    <li><a href="https://sl.aliexpress.ru/p?key=L3it3Cv" target="_blank">D1 MINI ESP8266</a></li>
+    <li>D1 MINI ESP8266 <a href="https://sl.aliexpress.ru/p?key=L3it3Cv" target="_blank">AliExpress</a></li>
   </ul>
 </p>
